@@ -1,6 +1,6 @@
-# Hi 👋, I'm JITHESH.D
+                                                                                     # Hi 👋, I'm JITHESH.D
 
-## Passionate Developer from India 🇮🇳 <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30"/>
+                                                                          ## Passionate Developer from India 🇮🇳 <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30"/>
 
 
 🌱 I recently completed 2 months of deep learning in MERN stack  
