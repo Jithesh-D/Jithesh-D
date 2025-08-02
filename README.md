@@ -6,7 +6,7 @@
 
 </div>
 
-
+<br>
 🌱 I recently completed 2 months of deep learning in MERN stack  
 🚀 Currently building full-stack apps with real-world use cases  
 📊 Exploring AI applications in FinTech and system design  
