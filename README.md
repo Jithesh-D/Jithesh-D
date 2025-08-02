@@ -6,15 +6,20 @@
 
 </div>
 
-<b>
-🌱 I recently completed 2 months of deep learning in MERN stack  
+
+<div align="center">
+
+🌱 I recently completed <strong>2 months</strong> of deep learning in <strong>MERN stack</strong>  
 🚀 Currently building full-stack apps with real-world use cases  
-📊 Exploring AI applications in FinTech and system design  
+📊 Exploring AI applications in <strong>FinTech</strong> and system design  
 📘 Resume: [My Resume](#) *(add your link here)*  
 🧠 I love discussing AI, FinTech, and product strategies  
-📬 Reach me at: jitheshd0006@gmail.com
-</b>
+📬 Reach me at: <strong>jitheshd0006@gmail.com</strong>
+
+</div>
+
 ---
+
 
 ### 🔧 Tech Stack
 
