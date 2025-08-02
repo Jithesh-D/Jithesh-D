@@ -9,7 +9,7 @@
 ---
 
 - 🌱 I recently completed <strong>2 months</strong> of deep learning in <strong>MERN stack</strong>  
-- 🚀 Currently building full-stack apps with real-world use cases  
+- 🚀 Currently building full-stack app with real-world use cases - SocialApp  
 - 📊 Exploring AI applications in <strong>FinTech</strong> and system design   
 - 📬 Reach me at: <strong>jitheshd0006@gmail.com</strong>
 
