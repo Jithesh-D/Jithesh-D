@@ -5,6 +5,7 @@
 <h3>Passionate Developer from India 🇮🇳 <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30"/></h3>
 
 </div>
+
 ---
 
 🌱 I recently completed <strong>2 months</strong> of deep learning in <strong>MERN stack</strong>  
