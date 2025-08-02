@@ -6,18 +6,14 @@
 
 </div>
 
-
-<div align="center">
-
+**
 🌱 I recently completed <strong>2 months</strong> of deep learning in <strong>MERN stack</strong>  
 🚀 Currently building full-stack apps with real-world use cases  
 📊 Exploring AI applications in <strong>FinTech</strong> and system design  
 📘 Resume: [My Resume](#) *(add your link here)*  
 🧠 I love discussing AI, FinTech, and product strategies  
 📬 Reach me at: <strong>jitheshd0006@gmail.com</strong>
-
-</div>
-
+**
 ---
 
 
