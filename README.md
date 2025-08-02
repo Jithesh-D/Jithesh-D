@@ -6,14 +6,14 @@
 
 </div>
 
-<div  font-weight ="1000">
+<b>
 🌱 I recently completed 2 months of deep learning in MERN stack  
 🚀 Currently building full-stack apps with real-world use cases  
 📊 Exploring AI applications in FinTech and system design  
 📘 Resume: [My Resume](#) *(add your link here)*  
 🧠 I love discussing AI, FinTech, and product strategies  
 📬 Reach me at: jitheshd0006@gmail.com
-</div>
+</b>
 ---
 
 ### 🔧 Tech Stack
