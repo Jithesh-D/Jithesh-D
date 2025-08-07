@@ -2,7 +2,8 @@
 
 <h1>Hi 👋, I'm JITHESH.D</h1>
 
-<h3>Passionate Developer from India 🇮🇳 <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30"/></h3>
+<h3>Passionate Developer from India 🇮🇳 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c6121a41-747d-4e01-9d6f-d8eefa06cad3" />
+
 
 </div>
 
