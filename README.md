@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm JITHESH.D</h1>
 
-## Passionate Developer from India 🇮🇳 <img src="https://github.com/user-attachments/assets/e542d741-d47a-49ad-a0c4-be555ab819b2" width="30" height="30" alt="India Flag" />
+## Passionate Developer from India 🇮🇳 <img src="https://github.com/user-attachments/assets/e542d741-d47a-49ad-a0c4-be555ab819b2" width="50" height="60" alt="India Flag" />
 
 
 
