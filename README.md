@@ -14,7 +14,7 @@
 <br>📊 Exploring AI applications in FinTech and Machine Learning<br>📬 Reach me at: jitheshd0006@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jitheshd0006@gmail.com) 
 
 # 💻 Tech Stack:
