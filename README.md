@@ -16,7 +16,7 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jitheshd0006@gmail.com) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=blue)](mailto:jitheshdbtech24@rvu.edu.in) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=green)](mailto:jitheshdbtech24@rvu.edu.in) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
