@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm JITHESH.D</h1>
+<h1>Hi 👋, I'm JITHESH</h1>
 
 ## PASSIONATE DEVELOPER FROM INDIA 🇮🇳   <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ee569011-8141-41dd-aa6c-7ec20a854fb8" />
 
