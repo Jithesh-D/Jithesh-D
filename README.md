@@ -10,7 +10,7 @@
 </div>
 
 # 💫 About Me:
-<br>🌱 I recently completed 2 months of deep learning in MERN stack<br>🚀 Currently building full-stack app where students of campus can interact, update & connect - [Campus Connect-RVU](https://github.com/Jithesh-D/social-app-mern-stack) <br> 💻 All of my projects are available on [GitHub](https://github.com/Jithesh-D)
+<br>🌱 I recently completed 2 months of deep learning in MERN <br>🚀 Currently building full-stack app where students of campus can interact, update & connect - [Campus Connect-RVU](https://github.com/Jithesh-D/social-app-mern-stack) <br> 💻 All of my projects are available on [GitHub](https://github.com/Jithesh-D)
 <br>📊 Exploring AI applications in FinTech and Machine Learning<br>📬 Reach me at: jitheshd0006@gmail.com
 
 
