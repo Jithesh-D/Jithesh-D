@@ -46,11 +46,12 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jithesh-D&show_icons=true&theme=neon&hide_border=false&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats&token=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)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jithesh-D&theme=neon&hide_border=false&count_private=true&include_all_commits=true&token=YOUR_PERSONAL_ACCESS_TOKEN)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jithesh-D&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&token=YOUR_PERSONAL_ACCESS_TOKEN)
+![](https://github-readme-stats.vercel.app/api?username=Jithesh-D&show_icons=true&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=Jithesh-D&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jithesh-D&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jithesh-D&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
