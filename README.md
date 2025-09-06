@@ -18,7 +18,7 @@
 • 💻 All of my projects are available on [GitHub](https://github.com/Jithesh-D)  
 
 • 📊 Exploring AI applications in FinTech and Machine Learning  
-
+<br>
 • 📬 Reach me at: jitheshd0006@gmail.com
 
 
