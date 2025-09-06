@@ -5,7 +5,7 @@
 ## PASSIONATE DEVELOPER FROM INDIA 🇮🇳   <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ee569011-8141-41dd-aa6c-7ec20a854fb8" />
 
 
-
+![Visitor Count](https://visitcount.itsvg.in/api?id=Jithesh-D&label=Profile%20Views&color=1&icon=5&pretty=false)
 
 </div>
 
@@ -56,7 +56,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jithesh-D&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![Visitor Count](https://visitcount.itsvg.in/api?id=Jithesh-D&label=Profile%20Views&color=1&icon=5&pretty=false)
+
 
 
 
