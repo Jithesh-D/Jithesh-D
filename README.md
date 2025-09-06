@@ -5,7 +5,7 @@
 ## PASSIONATE DEVELOPER FROM INDIA 🇮🇳   <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ee569011-8141-41dd-aa6c-7ec20a854fb8" />
 
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Jithesh-D&label=Profile%20Views&color=1&icon=5)
+[![](https://visitcount.itsvg.in/api?id=Jithesh-D&icon=0&color=0)](https://visitcount.itsvg.inz)
 
 
 </div>
