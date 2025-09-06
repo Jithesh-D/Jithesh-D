@@ -56,7 +56,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jithesh-D&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jithesh-D&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://visitcount.itsvg.in/api?id=Jithesh-D&label=Profile%20Views&color=1&icon=5&pretty=false)
+
 
 
 
