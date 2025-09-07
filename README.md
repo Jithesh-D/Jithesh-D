@@ -4,8 +4,7 @@
 
 ## PASSIONATE DEVELOPER FROM INDIA 🇮🇳   <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ee569011-8141-41dd-aa6c-7ec20a854fb8" />
 
-
-<img src="https://shields.io/badge/dynamic/json?color=555&label=Profile%20views&query=%24.value&url=https%3A%2F%2Fcount.get-views.org%2Fviews%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FJithesh-D%2F&style=for-the-badge&logo=github&labelColor=555&logoColor=fff" alt="Profile views badge" />
+<img src="https://komarev.com/ghpvc/?username=Jithesh-D" alt="Profile views" />
 
 
 </div>
