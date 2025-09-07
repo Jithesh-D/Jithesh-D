@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Jithesh-D" alt="Profile views" />
 
-
+<img src="https://shields.io/badge/dynamic/json?color=555&label=Profile%20views&query=%24.value&url=https%3A%2F%2Fcount.get-views.org%2Fviews%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FJithesh-D%2F&style=for-the-badge&logo=github&labelColor=555&logoColor=fff" alt="Profile views badge" />
 </div>
 
 # 💫 About Me:
