@@ -50,7 +50,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jithesh-D&show_icons=true&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://streak-stats.demolab.com?user=Jithesh-D&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jithesh-D&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
