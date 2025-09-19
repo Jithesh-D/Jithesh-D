@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm **JITHESH.D**
+# Hi 👋, I'm **JITHESH.D*
 
 ## PASSIONATE DEVELOPER FROM INDIA 🇮🇳  
 <img width="30" height="30" alt="flag" src="https://github.com/user-attachments/assets/ee569011-8141-41dd-aa6c-7ec20a854fb8" />
