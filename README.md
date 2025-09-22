@@ -2,10 +2,9 @@
 
 # Hi 👋, I'm **JITHESH.D**
 
-## PASSIONATE DEVELOPER FROM INDIA 🇮🇳  
-<img width="30" height="30" alt="flag" src="https://github.com/user-attachments/assets/ee569011-8141-41dd-aa6c-7ec20a854fb8" />
+## PASSIONATE DEVELOPER FROM INDIA 🇮🇳 <img width="30" height="30" alt="flag" src="https://github.com/user-attachments/assets/ee569011-8141-41dd-aa6c-7ec20a854fb8" />
 
-<img src="https://komarev.com/ghpvc/?username=Jithesh-D&style=for-the-badge&logo=github" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Jithesh-D&style=for-the-badge&logo=Github" alt="Profile views" />
 
 </div>
 
