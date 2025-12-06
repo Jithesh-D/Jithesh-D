@@ -12,11 +12,23 @@
 
 # 💫 About Me:
 
--🌱 I’m currently Exploring ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-- 🚀 I completed building **MERN** Project → [Campus Connect-RVU](https://github.com/Jithesh-D/social-app-mern-stack)
-- 💻 All of my projects are available on [GitHub](https://github.com/Jithesh-D)  
-- 📊 Exploring AI applications in **FinTech** and **Machine Learning**  
-- 📬 Reach me at: **jitheshd0006@gmail.com**
+### 🌱 Currently Exploring  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+### 🚀 Latest Project  
+- **Campus Connect – MERN Stack**  
+  🔗 https://github.com/Jithesh-D/social-app-mern-stack
+
+### 💻 More Projects  
+- Check out all my work here:  
+  🔗 https://github.com/Jithesh-D
+
+### 📊 Interests  
+- AI in **FinTech**  
+- **Machine Learning** system design & applications
+
+### 📬 Contact  
+**jitheshd0006@gmail.com**
 
 ---
 
