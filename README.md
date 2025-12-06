@@ -11,8 +11,9 @@
 ---
 
 # 💫 About Me:
-- 🌱 I recently completed 2 months of deep learning in **MERN**  
-- 🚀 Currently building a full-stack app for students to connect & interact → [Campus Connect-RVU](https://github.com/Jithesh-D/social-app-mern-stack)  
+-🌱 I’m currently learning Flutter  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- 🚀 I completed building **MERN** Project → [Campus Connect-RVU](https://github.com/Jithesh-D/social-app-mern-stack)
 - 💻 All of my projects are available on [GitHub](https://github.com/Jithesh-D)  
 - 📊 Exploring AI applications in **FinTech** and **Machine Learning**  
 - 📬 Reach me at: **jitheshd0006@gmail.com**
