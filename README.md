@@ -12,7 +12,7 @@
 
 # 💫 About Me:
 
-### 🌱 Currently Exploring - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+### 🌱 Currently Exploring - ![Deep Learning](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### 🚀 Latest Project  
 - **Campus Connect – MERN Stack** - 🔗 https://github.com/Jithesh-D/social-app-mern-stack
@@ -39,9 +39,13 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jithesh-D&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jithesh-D&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jithesh-D&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Jithesh-D&theme=neon&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Jithesh-D&theme=neon&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api?username=Jithesh-D&theme=neon&hide_border=false&include_all_commits=true&count_private=true&custom_title=Total%20Contributions&show=reviews,prs,commits)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jithesh-D&theme=neon&hide_border=false&layout=compact)
 
 ---
 
