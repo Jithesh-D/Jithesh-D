@@ -12,7 +12,7 @@
 
 # 💫 About Me:
 
-### 🌱 Currently Exploring - ![AI-ML](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=AI-ML&logoColor=white)
+### 🌱 Currently Exploring - ![AI-ML](https://img.shields.io/badge/AI-ML-02569B?style=flat&logo=AI-ML&logoColor=white)
 
 ### 🚀 Latest Project  
 - **Campus Connect – MERN Stack** - 🔗 https://github.com/Jithesh-D/social-app-mern-stack
